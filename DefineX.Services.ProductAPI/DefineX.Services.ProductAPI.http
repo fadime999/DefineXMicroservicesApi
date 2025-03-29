@@ -1,0 +1,6 @@
+@DefineX.Services.ProductAPI_HostAddress = http://localhost:5137
+
+GET {{DefineX.Services.ProductAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
