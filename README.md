@@ -7,7 +7,5 @@
 
 # Bu kısımda da apinin doğru bir şekilde çalıştığını görebilirsiniz.
 
-<img width="956" alt="Ekran görüntüsü 2025-03-30 023934" src="https://github.com/user-attachments/assets/7a45957f-2c24-4b1e-9dc0-dceda1946d5a" />
-
-<img width="955" alt="Ekran görüntüsü 2025-03-30 023952" src="https://github.com/user-attachments/assets/a4b3babf-4a2b-401d-a738-dcac44428571" />
-
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/48ade7df-c0ad-4181-a23a-085c12a48935" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/d0cfab6d-b0fa-496b-898c-048d7aa932b0" />
