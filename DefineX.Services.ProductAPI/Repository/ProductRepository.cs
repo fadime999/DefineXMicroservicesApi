@@ -66,7 +66,12 @@ namespace DefineX.Services.ProductAPI.Repository
 
         public async Task<IEnumerable<Product>> GetProducts()
         {
-            List<Product> productList = await _db.Products.ToListAsync();
+            //List<Product> productList = await _db.Products.ToListAsync();
+            var productList = await _db.Products
+                .Include(p => p.Variants)   // Variants ilişkisini dahil ediyoruz
+                .Include(p => p.Images)     // Images ilişkisini dahil ediyoruz
+                .ToListAsync();
+    
             return _mapper.Map<List<Product>>(productList);
         }
     }

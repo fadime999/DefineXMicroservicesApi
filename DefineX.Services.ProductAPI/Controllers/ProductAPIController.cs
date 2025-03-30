@@ -23,6 +23,7 @@ namespace DefineX.Services.ProductAPI.Controllers
         {
             try
             {
+
                 IEnumerable<Product> Products = await _productRepository.GetProducts();
                 _response.Result = Products;
             }
