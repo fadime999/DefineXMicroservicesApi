@@ -10,3 +10,6 @@
 <img width="956" alt="Ekran görüntüsü 2025-03-30 023934" src="https://github.com/user-attachments/assets/7a45957f-2c24-4b1e-9dc0-dceda1946d5a" />
 
 <img width="955" alt="Ekran görüntüsü 2025-03-30 023952" src="https://github.com/user-attachments/assets/a4b3babf-4a2b-401d-a738-dcac44428571" />
+
+<img width="959" alt="Ekran görüntüsü 2025-03-30 120004" src="https://github.com/user-attachments/assets/67410b77-0b4e-4316-a4eb-3b9505e31cf4" />
+
